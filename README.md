@@ -1,0 +1,1 @@
+Honestly this isn't even a project, I just coded along to a video by Bro Code. It's more to practice and track my journey.
